@@ -1,5 +1,16 @@
 # 👋 Hi, I'm Ebrar Yavuz!
 
+---
+
+## 🐍 GitHub Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
+
 💻 **Frontend Developer | Problem Solver | Tech Enthusiast**  
 "Turning my dreams into code and ideas into solutions."
 
