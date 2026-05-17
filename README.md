@@ -56,3 +56,4 @@ MySQL, MongoDB
 - **Email:** [ebrar2312@gmail.com](mailto:ebrar2312@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/ebraryavuzz](https://linkedin.com/in/ebraryavuzz/)  
 - **GitHub:** [github.com/EbrarYavuz23](https://github.com/EbrarYavuz23)
+- - **Website:** [ebraryavuz.com](https://ebraryavuz.com)
